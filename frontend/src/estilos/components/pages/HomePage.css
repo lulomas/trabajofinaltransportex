@@ -1,0 +1,34 @@
+.homeing{
+    margin-bottom: 1.5em;
+
+}
+
+.columnas{
+    overflow: hidden;
+}
+
+.bienvenidos, .testimonios{
+    box-sizing: border-box;
+}
+.bienvenidos{
+    width: 75%;
+    padding-right: 2em;
+}
+.testimonios{
+    width: 25%;
+}
+.testimonio{
+    background-color:wheat ;
+    padding: 1em;
+}
+.testimonio, .cita{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.4em;
+    display: block;
+}
+.testimonio, .autor{
+    font-size: 0.7em;
+    text-align: center;
+display: block;
+}

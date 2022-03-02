@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(0, 132, 255);
+    padding: 1em 0; /* 1 em..... 16px*/
+    /* 1rem es la medida del body equivale 20 px */
+} 
+
+header h1{
+    color: white;
+    font-size: 2.5em;
+    font-style: italic;
+    font-weight: 100;
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+    margin-left: 50px;
+}
